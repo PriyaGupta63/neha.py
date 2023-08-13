@@ -58,5 +58,6 @@ print(a > d  or a < d)
 print(a > d or a > d )
 
 
-
+a= 10 
+print(a)
 
