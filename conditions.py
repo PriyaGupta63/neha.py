@@ -7,50 +7,50 @@ else :
 
 
 
-# simple interest 
-# simple interest =( principal * rate * time)/100
+simple interest 
+simple interest =( principal * rate * time)/100
 
 
 
-# principal = int(input('enter the principal amount'))
-# rate = float(input('enter the rate ')) 
-# time = int(input('enter the time here '))
+principal = int(input('enter the principal amount'))
+rate = float(input('enter the rate ')) 
+time = int(input('enter the time here '))
 
-# simple_interest =(principal*rate*time)/100
-# print(simple_interest, 'simple interest')
-
-
-
-# # pythagorus theorum 
-
-
-# base = int(input('enter the base'))
-# height = int(input('enter the height '))
-# hypotenuos =((base**2 + height**2)**0.5)
-# print('the hypotenous is ', hypotenuos)
+simple_interest =(principal*rate*time)/100
+print(simple_interest, 'simple interest')
 
 
 
+# pythagorus theorum 
 
 
-# choice =   (input('enter any choice'))
-# if choice == 'hypotenous':
-#     perpendicular = int(input('enter the value of perpendicular'))
-#     base = int(input('enter the value of base '))  
-#     hypotenous = (perpendicular**2 + base**2)**0.5
-#     print('hypotenous is', hypotenous)
-# elif choice == 'perpendicular':
-#     hypotenous = int(input('enter the value of hypotenous'))
-#     base = int(input('enter the value of base'))
-#     perpendicular = (hypotenous**2 - base**2)**0.5
-#     print('perpendicular is ', perpendicular)
-# elif choice == 'base':
-#     hypotenous = int(input('enter the value of hypotenous'))
-#     perpendicular = int(input('enter the value of perpendicular'))
-#     base = (hypotenous**2 - perpendicular**2)**0.5
-#     print('base is', base)
-# else:
-#     ('invalid choice') 
+base = int(input('enter the base'))
+height = int(input('enter the height '))
+hypotenuos =((base**2 + height**2)**0.5)
+print('the hypotenous is ', hypotenuos)
+
+
+
+
+
+choice =   (input('enter any choice'))
+if choice == 'hypotenous':
+    perpendicular = int(input('enter the value of perpendicular'))
+    base = int(input('enter the value of base '))  
+    hypotenous = (perpendicular**2 + base**2)**0.5
+    print('hypotenous is', hypotenous)
+elif choice == 'perpendicular':
+    hypotenous = int(input('enter the value of hypotenous'))
+    base = int(input('enter the value of base'))
+    perpendicular = (hypotenous**2 - base**2)**0.5
+    print('perpendicular is ', perpendicular)
+elif choice == 'base':
+    hypotenous = int(input('enter the value of hypotenous'))
+    perpendicular = int(input('enter the value of perpendicular'))
+    base = (hypotenous**2 - perpendicular**2)**0.5
+    print('base is', base)
+else:
+    ('invalid choice') 
 
 
 
