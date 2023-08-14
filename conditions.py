@@ -7,8 +7,6 @@ else :
 
 
 
-simple interest 
-simple interest =( principal * rate * time)/100
 
 
 
@@ -30,7 +28,9 @@ hypotenuos =((base**2 + height**2)**0.5)
 print('the hypotenous is ', hypotenuos)
 
 
-
+Aap us 1 contribution pae dhyn mt do 
+Vo vaisae hi dikhata hai
+Ok sir
 
 
 choice =   (input('enter any choice'))
@@ -52,7 +52,7 @@ elif choice == 'base':
 else:
     ('invalid choice') 
  
- 
+
 
 
 
