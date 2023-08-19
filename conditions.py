@@ -28,11 +28,6 @@ hypotenuos =((base**2 + height**2)**0.5)
 print('the hypotenous is ', hypotenuos)
 
 
-Aap us 1 contribution pae dhyn mt do 
-Vo vaisae hi dikhata hai
-Ok sir
-
-
 choice =   (input('enter any choice'))
 if choice == 'hypotenous':
     perpendicular = int(input('enter the value of perpendicular'))
